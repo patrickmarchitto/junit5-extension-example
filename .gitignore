@@ -1,0 +1,15 @@
+#
+# IntelliJ
+#
+*.iml
+.idea/*
+target/
+.allure/*
+
+# macOS
+.DS_Store
+#IDE
+/.idea
+
+
+/allure-results/
